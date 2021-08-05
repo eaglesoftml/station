@@ -18,3 +18,4 @@ from openerp import http
 #         return http.request.render('test.object', {
 #             'object': obj
 #         })
+NKDNKNSLS NKN QN
