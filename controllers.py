@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from openerp import http
-
+#BDBDBJ
 # class Test(http.Controller):
 #     @http.route('/test/test/', auth='public')
 #     def index(self, **kw):
